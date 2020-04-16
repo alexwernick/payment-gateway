@@ -38,7 +38,7 @@ The solution requires a database which is used to keep track of merchant payment
 ## Testing
 
 * Unit and integration tests can be seen in the solution. They are self-explanatory so no more detail is needed here
-*Manually testing the API can be done using the swagger document at https://localhost:44348/swagger/index.html 
+* Manually testing the API can be done using the swagger document at https://localhost:44348/swagger/index.html 
 
 ## Logging
 
